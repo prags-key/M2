@@ -67,7 +67,7 @@ int main() {
     for (i = 1; i <= rows; i++) {
         // Loop to print asterisks in each row
         for (j = 1; j <= i; j++) {
-            printf("* ");
+            printf("$ ");
         }
         // Move to the next line
         printf("\n");
